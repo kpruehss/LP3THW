@@ -7,7 +7,8 @@ rooms = {
     'Kitchen': ['Lounge', 'Pantry'],
     'Study': ['Lounge', 'Stairwell'],
     'Stairwell': ['Upstairs', 'Basement'],
-    'Laundry': ['Window', 'Garage', 'Upstairs']
+    'Laundry': ['Window', 'Garage', 'Upstairs'],
+    'Garage': ['Laundry', 'Driveway']
     }
 
 
