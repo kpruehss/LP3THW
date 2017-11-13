@@ -6,6 +6,7 @@ rooms = {
     "Lounge": ['Kitchen', 'Study', 'Stairwell'],
     'Kitchen': ['Lounge', 'Pantry'],
     'Study': ['Lounge', 'Stairwell']
+    'Stairwell': ['Upstairs', 'Basement']
     }
 
 
