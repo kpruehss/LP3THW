@@ -3,7 +3,9 @@ from random import random
 
 
 rooms = {
-    "lounge": ['Kitchen', 'Study']
+    "Lounge": ['Kitchen', 'Study', 'Stairwell'],
+    'Kitchen': ['Lounge', 'Pantry'],
+    'Study': ['Lounge', 'Stairwell']
     }
 
 
