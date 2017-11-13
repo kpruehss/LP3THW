@@ -1,0 +1,120 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+age	../ex11.py	/^age = input()$/;"	kind:variable	line:2
+age	../ex26.py	/^age = input('>')$/;"	kind:variable	line:5
+args	../ex13.py	/^args = len(argv) - 1$/;"	kind:variable	line:9
+argv	../ex13.py	/^from sys import argv$/;"	kind:namespace	line:1
+argv	../ex14.py	/^from sys import argv$/;"	kind:namespace	line:1
+argv	../ex15.py	/^from sys import argv$/;"	kind:namespace	line:1
+argv	../ex16.py	/^from sys import argv$/;"	kind:namespace	line:1
+argv	../ex17.py	/^from sys import argv$/;"	kind:namespace	line:1
+argv	../ex20.py	/^from sys import argv$/;"	kind:namespace	line:1
+argv	../ex26.py	/^from sys import argv$/;"	kind:namespace	line:1
+argv	../ex33.py	/^from sys import argv$/;"	kind:namespace	line:1
+argv	../sdEx16.py	/^from sys import argv$/;"	kind:namespace	line:1
+argv	../sdEx17.py	/^from sys import argv$/;"	kind:namespace	line:1
+bear_room	../ex35.py	/^def bear_room():$/;"	kind:function	line:20
+cats	../ex26.py	/^cats = 30$/;"	kind:variable	line:72
+computer	../ex14.py	/^computer = input(prompt)$/;"	kind:variable	line:15
+content	../sdEx16.py	/^    content = f.read()$/;"	kind:variable	line:8
+content	../sdEx16.py	/^content = ""$/;"	kind:variable	line:5
+cthulhu_room	../ex35.py	/^def cthulhu_room():$/;"	kind:function	line:44
+current_file	../ex20.py	/^current_file = open(argv[1])$/;"	kind:variable	line:18
+current_line	../ex20.py	/^current_line = 1$/;"	kind:variable	line:30
+dead	../ex35.py	/^def dead(why):$/;"	kind:function	line:59
+dogs	../ex26.py	/^dogs = 15$/;"	kind:variable	line:73
+draw_choice	../homework.py	/^def draw_choice(doors):$/;"	kind:function	line:31
+end1	../ex7.py	/^end1 = "C"$/;"	kind:variable	line:6
+end10	../ex7.py	/^end10 = "g"$/;"	kind:variable	line:15
+end11	../ex7.py	/^end11 = "e"$/;"	kind:variable	line:16
+end12	../ex7.py	/^end12 = "r"$/;"	kind:variable	line:17
+end2	../ex7.py	/^end2 = "h"$/;"	kind:variable	line:7
+end3	../ex7.py	/^end3 = "e"$/;"	kind:variable	line:8
+end4	../ex7.py	/^end4 = "e"$/;"	kind:variable	line:9
+end5	../ex7.py	/^end5 = "s"$/;"	kind:variable	line:10
+end6	../ex7.py	/^end6 = "e"$/;"	kind:variable	line:11
+end7	../ex7.py	/^end7 = "B"$/;"	kind:variable	line:12
+end8	../ex7.py	/^end8 = "u"$/;"	kind:variable	line:13
+end9	../ex7.py	/^end9 = "r"$/;"	kind:variable	line:14
+ex1.py	../ex1.py	1;"	kind:file	line:1
+ex11.py	../ex11.py	1;"	kind:file	line:1
+ex13.py	../ex13.py	1;"	kind:file	line:1
+ex14.py	../ex14.py	1;"	kind:file	line:1
+ex15.py	../ex15.py	1;"	kind:file	line:1
+ex16.py	../ex16.py	1;"	kind:file	line:1
+ex17.py	../ex17.py	1;"	kind:file	line:1
+ex18.py	../ex18.py	1;"	kind:file	line:1
+ex2.py	../ex2.py	1;"	kind:file	line:1
+ex20.py	../ex20.py	1;"	kind:file	line:1
+ex23.py	../ex23.py	1;"	kind:file	line:1
+ex26.py	../ex26.py	1;"	kind:file	line:1
+ex3.py	../ex3.py	1;"	kind:file	line:1
+ex33.py	../ex33.py	1;"	kind:file	line:1
+ex35.py	../ex35.py	1;"	kind:file	line:1
+ex7.py	../ex7.py	1;"	kind:file	line:1
+ex8.py	../ex8.py	1;"	kind:file	line:1
+exists	../ex17.py	/^from os.path import exists$/;"	kind:namespace	line:2
+exit	../ex35.py	/^from sys import exit$/;"	kind:namespace	line:1
+file_again	../ex15.py	/^file_again = input('> ')$/;"	kind:variable	line:13
+file_again	../ex26.py	/^file_again = input("> ")$/;"	kind:variable	line:20
+filename	../ex15.py	/^filename = argv[1]$/;"	kind:variable	line:3
+five	../ex26.py	/^five = 10 - 2 - 3$/;"	kind:variable	line:45
+formatter	../ex8.py	/^formatter = "{} {} {} {}"$/;"	kind:variable	line:1
+formula	../ex26.py	/^formula = secret_formula(start_point)$/;"	kind:variable	line:67
+gold_room	../ex35.py	/^def gold_room():$/;"	kind:function	line:4
+height	../ex11.py	/^height = input()$/;"	kind:variable	line:4
+height	../ex26.py	/^height = input('>')$/;"	kind:variable	line:7
+homework.py	../homework.py	1;"	kind:file	line:1
+indata	../ex17.py	/^indata = open(from_file).read()$/;"	kind:variable	line:11
+input_file	../sdEx16.py	/^input_file = argv[1]$/;"	kind:variable	line:3
+kitchen_room	../homework.py	/^def kitchen_room():$/;"	kind:function	line:20
+languages	../ex23.py	/^languages = open("languages.txt", encoding="utf-8")$/;"	kind:variable	line:21
+languages	../sdEx23.py	/^languages = open("languages.txt", encoding="utf-8")$/;"	kind:variable	line:26
+likes	../ex14.py	/^likes = input(prompt)$/;"	kind:variable	line:9
+line1	../ex16.py	/^line1 = input("line 1: ")$/;"	kind:variable	line:19
+line2	../ex16.py	/^line2 = input("line 2: ")$/;"	kind:variable	line:20
+line3	../ex16.py	/^line3 = input("line 3: ")$/;"	kind:variable	line:21
+lives	../ex14.py	/^lives = input(prompt)$/;"	kind:variable	line:12
+lounge_room	../homework.py	/^def lounge_room():$/;"	kind:function	line:10
+main	../ex23.py	/^def main(language_file, encoding, errors):$/;"	kind:function	line:5
+main	../sdEx23.py	/^def main(language_file, encoding, errors, file):$/;"	kind:function	line:5
+numbers	../ex33.py	/^numbers = []$/;"	kind:variable	line:2
+out_file	../ex17.py	/^out_file = open(to_file, 'w')$/;"	kind:variable	line:19
+output_file	../sdEx23.py	/^output_file = open(output_file, 'w')$/;"	kind:variable	line:27
+people	../ex26.py	/^people = 20$/;"	kind:variable	line:71
+print_a_line	../ex20.py	/^def print_a_line(line_count, f):$/;"	kind:function	line:14
+print_all	../ex20.py	/^def print_all(f):$/;"	kind:function	line:4
+print_line	../ex23.py	/^def print_line(line, encoding, errors):$/;"	kind:function	line:13
+print_line	../sdEx23.py	/^def print_line(line, encoding, errors, file):$/;"	kind:function	line:13
+print_none	../ex18.py	/^def print_none():$/;"	kind:function	line:14
+print_one	../ex18.py	/^def print_one(arg1):$/;"	kind:function	line:10
+print_two	../ex18.py	/^def print_two(*args):$/;"	kind:function	line:1
+print_two_again	../ex18.py	/^def print_two_again(arg1, arg2):$/;"	kind:function	line:6
+prompt	../ex14.py	/^prompt = '> '$/;"	kind:variable	line:4
+random	../homework.py	/^from random import random$/;"	kind:namespace	line:2
+rewind	../ex20.py	/^def rewind(f):$/;"	kind:function	line:10
+rooms	../homework.py	/^rooms = {$/;"	kind:variable	line:5
+sdEx16.py	../sdEx16.py	1;"	kind:file	line:1
+sdEx17.py	../sdEx17.py	1;"	kind:file	line:1
+sdEx23.py	../sdEx23.py	1;"	kind:file	line:1
+secret_formula	../ex26.py	/^def secret_formula(started):$/;"	kind:function	line:49
+sleep	../homework.py	/^from time import sleep$/;"	kind:namespace	line:1
+start	../ex35.py	/^def start():$/;"	kind:function	line:64
+start_point	../ex26.py	/^start_point = 10000$/;"	kind:variable	line:56
+start_point	../ex26.py	/^start_point = start_point \/ 10$/;"	kind:variable	line:64
+study_room	../homework.py	/^def study_room():$/;"	kind:function	line:24
+sys	../ex23.py	/^import sys$/;"	kind:namespace	line:1
+sys	../sdEx23.py	/^import sys$/;"	kind:namespace	line:1
+target	../ex16.py	/^target = open(filename, 'w')$/;"	kind:variable	line:12
+txt	../ex15.py	/^txt = open(filename)$/;"	kind:variable	line:5
+txt	../ex26.py	/^txt = open(filename)$/;"	kind:variable	line:14
+txt_again	../ex15.py	/^txt_again = open(file_again)$/;"	kind:variable	line:15
+txt_again	../ex26.py	/^txt_again = open(file_again)$/;"	kind:variable	line:22
+weight	../ex11.py	/^weight = input()$/;"	kind:variable	line:6
+weight	../ex26.py	/^weight = input('>')$/;"	kind:variable	line:9
+while_loop	../ex33.py	/^def while_loop(limit, step=1):$/;"	kind:function	line:6
+write_bytes	../sdEx23.py	/^def write_bytes(line, output_file):$/;"	kind:function	line:22
