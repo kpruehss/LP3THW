@@ -1,12 +1,13 @@
 from time import sleep
-from random import random
+# from random import random
 
 
 rooms = {
-    "Lounge": ['Kitchen', 'Study', 'Stairwell'],
+    'Lounge': ['Kitchen', 'Study', 'Stairwell'],
     'Kitchen': ['Lounge', 'Pantry'],
     'Study': ['Lounge', 'Stairwell'],
-    'Stairwell': ['Upstairs', 'Basement']
+    'Stairwell': ['Upstairs', 'Basement'],
+    'Laundry': ['Window', 'Garage', 'Upstairs']
     }
 
 
