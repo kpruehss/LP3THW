@@ -27,7 +27,7 @@ current_file	../ex20.py	/^current_file = open(argv[1])$/;"	kind:variable	line:18
 current_line	../ex20.py	/^current_line = 1$/;"	kind:variable	line:30
 dead	../ex35.py	/^def dead(why):$/;"	kind:function	line:59
 dogs	../ex26.py	/^dogs = 15$/;"	kind:variable	line:73
-draw_choice	../homework.py	/^def draw_choice(doors):$/;"	kind:function	line:33
+draw_choice	../homework.py	/^def draw_choice(doors):$/;"	kind:function	line:34
 end1	../ex7.py	/^end1 = "C"$/;"	kind:variable	line:6
 end10	../ex7.py	/^end10 = "g"$/;"	kind:variable	line:15
 end11	../ex7.py	/^end11 = "e"$/;"	kind:variable	line:16
@@ -71,7 +71,7 @@ height	../ex26.py	/^height = input('>')$/;"	kind:variable	line:7
 homework.py	../homework.py	1;"	kind:file	line:1
 indata	../ex17.py	/^indata = open(from_file).read()$/;"	kind:variable	line:11
 input_file	../sdEx16.py	/^input_file = argv[1]$/;"	kind:variable	line:3
-kitchen_room	../homework.py	/^def kitchen_room():$/;"	kind:function	line:22
+kitchen_room	../homework.py	/^def kitchen_room():$/;"	kind:function	line:25
 languages	../ex23.py	/^languages = open("languages.txt", encoding="utf-8")$/;"	kind:variable	line:21
 languages	../sdEx23.py	/^languages = open("languages.txt", encoding="utf-8")$/;"	kind:variable	line:26
 likes	../ex14.py	/^likes = input(prompt)$/;"	kind:variable	line:9
@@ -79,7 +79,7 @@ line1	../ex16.py	/^line1 = input("line 1: ")$/;"	kind:variable	line:19
 line2	../ex16.py	/^line2 = input("line 2: ")$/;"	kind:variable	line:20
 line3	../ex16.py	/^line3 = input("line 3: ")$/;"	kind:variable	line:21
 lives	../ex14.py	/^lives = input(prompt)$/;"	kind:variable	line:12
-lounge_room	../homework.py	/^def lounge_room():$/;"	kind:function	line:12
+lounge_room	../homework.py	/^def lounge_room():$/;"	kind:function	line:15
 main	../ex23.py	/^def main(language_file, encoding, errors):$/;"	kind:function	line:5
 main	../sdEx23.py	/^def main(language_file, encoding, errors, file):$/;"	kind:function	line:5
 numbers	../ex33.py	/^numbers = []$/;"	kind:variable	line:2
@@ -95,7 +95,6 @@ print_one	../ex18.py	/^def print_one(arg1):$/;"	kind:function	line:10
 print_two	../ex18.py	/^def print_two(*args):$/;"	kind:function	line:1
 print_two_again	../ex18.py	/^def print_two_again(arg1, arg2):$/;"	kind:function	line:6
 prompt	../ex14.py	/^prompt = '> '$/;"	kind:variable	line:4
-random	../homework.py	/^from random import random$/;"	kind:namespace	line:2
 rewind	../ex20.py	/^def rewind(f):$/;"	kind:function	line:10
 rooms	../homework.py	/^rooms = {$/;"	kind:variable	line:5
 sdEx16.py	../sdEx16.py	1;"	kind:file	line:1
@@ -106,7 +105,7 @@ sleep	../homework.py	/^from time import sleep$/;"	kind:namespace	line:1
 start	../ex35.py	/^def start():$/;"	kind:function	line:64
 start_point	../ex26.py	/^start_point = 10000$/;"	kind:variable	line:56
 start_point	../ex26.py	/^start_point = start_point \/ 10$/;"	kind:variable	line:64
-study_room	../homework.py	/^def study_room():$/;"	kind:function	line:26
+study_room	../homework.py	/^def study_room():$/;"	kind:function	line:29
 sys	../ex23.py	/^import sys$/;"	kind:namespace	line:1
 sys	../sdEx23.py	/^import sys$/;"	kind:namespace	line:1
 target	../ex16.py	/^target = open(filename, 'w')$/;"	kind:variable	line:12

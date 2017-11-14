@@ -29,9 +29,7 @@ def kitchen_room():
 def study_room():
     print("You're in the study.")
 
-
 lounge_room()
-
 
 def draw_choice(doors):
     for i, door in enumerate(doors):
